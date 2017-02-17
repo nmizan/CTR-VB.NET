@@ -1,0 +1,231 @@
+<report>
+ <rentity_id>12</rentity_id>
+ <rentity_branch>NARSINGDI(MAIN)-0584</rentity_branch>
+ <submission_code>E</submission_code>
+ <report_code>CTR</report_code>
+ <entity_reference>narsingdi corp/ctr/sept/2013</entity_reference>
+ <submission_date>2013-10-20T00:00:00</submission_date>
+ <currency_code_local>BDT</currency_code_local>
+<reporting_person>
+ <title>Mr.</title>
+ <first_name>AZIZUL</first_name>
+ <middle_name></middle_name>
+ <last_name>HUQ</last_name>
+<phones>
+<phone>
+ <tph_contact_type>2</tph_contact_type>
+ <tph_communication_type>D</tph_communication_type>
+ <tph_number>029463102</tph_number>
+ </phone>
+ </phones>
+<addresses>
+<address>
+ <address_type>2</address_type>
+ <address>NARSINGDI BAZAR</address>
+ <city>NARSINGDI</city>
+ <country_code>BD</country_code>
+ <state>DHAKA </state>
+ </address>
+ </addresses>
+ <email>jb0031@janatabank-bd.com</email>
+ </reporting_person>
+<location>
+ <address_type>2</address_type>
+ <address>NARSINGDI BAZAR</address>
+ <city>NARSINGDI</city>
+ <zip/>
+ <country_code>BD</country_code>
+ <state>DHAKA </state>
+ </location>
+  
+<transaction>
+ <transactionnumber>1208412</transactionnumber>
+ <internal_ref_number>1208412</internal_ref_number>
+ <transaction_location>NARSINGDI CORP.</transaction_location>
+ <date_transaction>2013-09-03T00:00:00</date_transaction>
+ <transmode_code>R</transmode_code>
+ <amount_local>3000000</amount_local>
+<t_from_my_client>
+ <from_funds_code>K</from_funds_code>
+  <from_account>
+    <institution_name>Janata Bank Ltd</institution_name>
+    <swift>JANBBDDH</swift>
+    <non_bank_institution>0</non_bank_institution>
+    <branch>NARSINGDI(MAIN)-0584</branch>
+    <account>001050663</account>
+    <currency_code>BDT</currency_code>
+    <account_name>M/S. ALI AKBAR TRADERS</account_name>
+    <personal_account_type>D</personal_account_type>
+    <signatory>
+      <is_primary>1</is_primary>
+      <t_person>
+        <gender>M</gender>
+        <first_name>ALI</first_name>
+        <last_name>AKBAR</last_name>
+        <birthdate>1964-01-31T00:00:00</birthdate>
+        <mothers_name>AMENA KHATUN</mothers_name>
+        <nationality1>BD</nationality1>
+        <residence>BD</residence>
+        <phones>
+          <phone>
+            <tph_contact_type>7</tph_contact_type>
+            <tph_communication_type>L</tph_communication_type>
+            <tph_number>01724292587</tph_number>
+          </phone>
+        </phones>
+        <addresses>
+          <address>
+            <address_type>5</address_type>
+            <address>186/1,SATIRPARA </address>
+            <town>NARSINGDI SADAR</town>
+            <city>DHAKA</city>
+            <country_code>BD</country_code>
+            <state>DHAKA</state>
+          </address>
+        </addresses>
+        <email/>
+        <occupation>OTH</occupation>
+        <identification>
+          <type>D</type>
+          <number>n/a</number>
+          <issue_country>BD</issue_country>
+        </identification>
+      </t_person>
+    </signatory>
+    <signatory>
+      <is_primary>1</is_primary>
+      <t_person>
+        <gender>M</gender>
+        <first_name>ALI</first_name>
+        <last_name>AKBAR</last_name>
+        <birthdate>1964-01-31T00:00:00</birthdate>
+        <mothers_name>AMENA KHATUN</mothers_name>
+        <nationality1>BD</nationality1>
+        <residence>BD</residence>
+        <phones>
+          <phone>
+            <tph_contact_type>7</tph_contact_type>
+            <tph_communication_type>L</tph_communication_type>
+            <tph_number>01724292587</tph_number>
+          </phone>
+        </phones>
+        <addresses>
+          <address>
+            <address_type>5</address_type>
+            <address>186/1,SATIRPARA </address>
+            <town>NARSINGDI SADAR</town>
+            <city>DHAKA</city>
+            <country_code>BD</country_code>
+            <state>DHAKA</state>
+          </address>
+        </addresses>
+        <email/>
+        <occupation>OTH</occupation>
+        <identification>
+          <type>D</type>
+          <number>n/a</number>
+          <issue_country>BD</issue_country>
+        </identification>
+      </t_person>
+    </signatory>
+    <status_code>A</status_code>
+
+  </from_account>
+ <from_country>BD</from_country>
+ </t_from_my_client>
+<t_to_my_client>
+ <to_funds_code>A</to_funds_code>
+<to_account>
+ <institution_name>Janata Bank Ltd</institution_name>
+ <swift>JANBBDDH</swift>
+ <non_bank_institution>0</non_bank_institution>
+ <branch>NARSINGDI(MAIN)-0584</branch>
+ <account>001050663</account>
+ <currency_code>BDT</currency_code>
+ <account_name>M/S. ALI AKBAR TRADERS</account_name>
+ <personal_account_type>D</personal_account_type>
+<signatory>
+ <is_primary>1</is_primary>
+<t_person>
+ <gender>M</gender>
+ <first_name>ALI</first_name>
+ <last_name>AKBAR</last_name>
+ <birthdate>1964-01-31T00:00:00</birthdate>
+ <mothers_name>AMENA KHATUN</mothers_name>
+ <nationality1>BD</nationality1>
+ <residence>BD</residence>
+<phones>
+<phone>
+ <tph_contact_type>7</tph_contact_type>
+ <tph_communication_type>L</tph_communication_type>
+ <tph_number>01724292587</tph_number>
+ </phone>
+ </phones>
+<addresses>
+<address>
+ <address_type>5</address_type>
+ <address>186/1,SATIRPARA </address>
+ <town>NARSINGDI SADAR</town>
+ <city>DHAKA</city>
+ <country_code>BD</country_code>
+ <state>DHAKA</state>
+ </address>
+ </addresses>
+ <email/>
+ <occupation>OTH</occupation>
+<identification>
+ <type>D</type>
+ <number>n/a</number>
+ <issue_country>BD</issue_country>
+ </identification>
+ </t_person>
+ </signatory>
+  <signatory>
+    <is_primary>1</is_primary>
+    <t_person>
+      <gender>M</gender>
+      <first_name>ALI</first_name>
+      <last_name>AKBAR</last_name>
+      <birthdate>1964-01-31T00:00:00</birthdate>
+      <mothers_name>AMENA KHATUN</mothers_name>
+      <nationality1>BD</nationality1>
+      <residence>BD</residence>
+      <phones>
+        <phone>
+          <tph_contact_type>7</tph_contact_type>
+          <tph_communication_type>L</tph_communication_type>
+          <tph_number>01724292587</tph_number>
+        </phone>
+      </phones>
+      <addresses>
+        <address>
+          <address_type>5</address_type>
+          <address>186/1,SATIRPARA </address>
+          <town>NARSINGDI SADAR</town>
+          <city>DHAKA</city>
+          <country_code>BD</country_code>
+          <state>DHAKA</state>
+        </address>
+      </addresses>
+      <email/>
+      <occupation>OTH</occupation>
+      <identification>
+        <type>D</type>
+        <number>n/a</number>
+        <issue_country>BD</issue_country>
+      </identification>
+    </t_person>
+  </signatory>
+  <status_code>A</status_code>
+  
+ </to_account>
+ <to_country>BD</to_country>
+ </t_to_my_client>
+
+ </transaction>
+  
+  <report_indicators>
+    <indicator>18</indicator>
+  </report_indicators>
+  
+ </report>

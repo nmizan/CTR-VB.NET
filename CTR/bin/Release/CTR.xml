@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CTR
+</name>
+</assembly>
+<members>
+<member name="M:CTR.FrmLogin.LoadConfSettings">
+	<summary>
+ Load Configuration Settings
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CTR.TypeChecker.IsContained(System.String,System.String,System.Boolean)">
+	<summary>
+	</summary>
+	<param name="TypeName"></param>
+	<param name="TypeValue"></param>
+	<param name="IgnoreBlank">To ignore the blank type value</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:CTR.Common.TransState">
+	<summary>
+ Transaction State Enumura
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

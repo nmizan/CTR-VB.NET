@@ -1,0 +1,1693 @@
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\bin\Debug\CTR.exe.config
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\bin\Debug\goAMLSchema.xsd
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\bin\Debug\CTR.exe
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\bin\Debug\CTR.pdb
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\bin\Debug\CTR.xml
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.Unity.dll
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\bin\Debug\office.dll
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\bin\Debug\office.xml
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\ResolveAssemblyReference.cache
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFlexTransaction.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportCCMSTrans.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAbout.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAMLDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAmlSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeDetail.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSummary.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAppSettting.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountryDetail.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountrySummary.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCTRTransaction.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencyDetail.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencySummary.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorDetail.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorSummary.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEERSFeedExport.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonSummary.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportGoAML.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFGPermSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFileImportCustomerStatus.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.frmFundTypeDetail.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFundTypeSummary.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportAccountInfo.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportBearerInfo.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportEntityInformation.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCustGo.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportOwnerInfo.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmList.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmLogin.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.frmLogReport.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeSummary.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPermFGDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonDetail.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonSummary.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneDetail.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneSummary.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessByRuleHistory.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReadyGo.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImportGo.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedAccWithEntityOwner.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedTransgoAML.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAcGo.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingEntityInfo.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwnerGo.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissionAccountFieldInfo.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportOwnerInfo.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthCust.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthTrans.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportSummary.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRule.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportFileImportStatus.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.frmAssessmentDurSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAssessment_Duration.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBank.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranch.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranchSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.frmBankSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmComRegAuth.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.frmComRegAuthSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountry.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.frmCountrySumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrency.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.frmCurrencySumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrict.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.frmDivInfoSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivision.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExDesig.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.frmExDesigSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypes.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypesSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRuleGo.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.frmReportView.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRolePermission.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptCTRvsGoAML.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptFLEXvsCCMS.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThana.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransType.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransTypeSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingType.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingTypeSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerType.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerTypeSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountType.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMappingSum.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfoSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportAll.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfo.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwner.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfo.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFiuCustAc.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCust.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexTrans.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmMain.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReady.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImport.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAc.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMapping.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUserSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.Resources.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary2.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportDet.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressSumm.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerDetail.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerSummary.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingDirector.resources
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.vbproj.GenerateResource.Cache
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.exe
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.xml
+F:\WorkStatus\CTNA\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.pdb
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\bin\Debug\CTR.exe.config
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.exe
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.xml
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.pdb
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\bin\Debug\goAMLSchema.xsd
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\bin\Debug\CTR.exe
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\bin\Debug\CTR.pdb
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\bin\Debug\CTR.xml
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\bin\Debug\office.dll
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\bin\Debug\office.xml
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\ResolveAssemblyReference.cache
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFlexTransaction.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportCCMSTrans.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAbout.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAMLDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAmlSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeDetail.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSummary.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAppSettting.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountryDetail.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountrySummary.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCTRTransaction.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencyDetail.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencySummary.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorDetail.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorSummary.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEERSFeedExport.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonSummary.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportGoAML.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFGPermSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFileImportCustomerStatus.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.frmFundTypeDetail.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFundTypeSummary.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportAccountInfo.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportBearerInfo.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportEntityInformation.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCustGo.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportOwnerInfo.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmList.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmLogin.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.frmLogReport.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeSummary.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPermFGDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonDetail.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonSummary.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneDetail.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneSummary.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessByRuleHistory.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReadyGo.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImportGo.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedAccWithEntityOwner.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedTransgoAML.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAcGo.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingEntityInfo.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwnerGo.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissionAccountFieldInfo.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportOwnerInfo.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthCust.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthTrans.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportSummary.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRule.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportFileImportStatus.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.frmAssessmentDurSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAssessment_Duration.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBank.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranch.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranchSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.frmBankSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmComRegAuth.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.frmComRegAuthSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountry.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.frmCountrySumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrency.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.frmCurrencySumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrict.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.frmDivInfoSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivision.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExDesig.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.frmExDesigSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypes.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypesSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRuleGo.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.frmReportView.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRolePermission.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptCTRvsGoAML.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptFLEXvsCCMS.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThana.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransType.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransTypeSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingType.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingTypeSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerType.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerTypeSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountType.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMappingSum.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfoSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportAll.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfo.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwner.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfo.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFiuCustAc.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCust.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexTrans.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmMain.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReady.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImport.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAc.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMapping.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUserSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.Resources.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary2.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportDet.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressSumm.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerDetail.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerSummary.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingDirector.resources
+D:\Developer\Shanto-08-Oct-2015\CTR v1.3.2\CTR\obj\Debug\CTR.vbproj.GenerateResource.Cache
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\CTR.exe.config
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.exe
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.xml
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.pdb
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\goAMLSchema.xsd
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\CTR.exe
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\CTR.pdb
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\CTR.xml
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\office.dll
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\office.xml
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\ResolveAssemblyReference.cache
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFlexTransaction.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportCCMSTrans.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAbout.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAMLDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAmlSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeDetail.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSummary.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAppSettting.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountryDetail.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountrySummary.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCTRTransaction.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencyDetail.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencySummary.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorDetail.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorSummary.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEERSFeedExport.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonSummary.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportGoAML.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFGPermSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFileImportCustomerStatus.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmFundTypeDetail.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFundTypeSummary.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportAccountInfo.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportBearerInfo.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportEntityInformation.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCustGo.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportOwnerInfo.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmList.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmLogin.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmLogReport.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeSummary.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPermFGDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonDetail.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonSummary.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneDetail.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneSummary.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessByRuleHistory.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReadyGo.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImportGo.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedAccWithEntityOwner.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedTransgoAML.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAcGo.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingEntityInfo.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwnerGo.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissionAccountFieldInfo.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportOwnerInfo.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthCust.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthTrans.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportSummary.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRule.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportFileImportStatus.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmAssessmentDurSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAssessment_Duration.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBank.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranch.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranchSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmBankSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmComRegAuth.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmComRegAuthSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountry.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmCountrySumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrency.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmCurrencySumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrict.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmDivInfoSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivision.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExDesig.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmExDesigSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypes.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypesSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRuleGo.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmReportView.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRolePermission.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptCTRvsGoAML.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptFLEXvsCCMS.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThana.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransType.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransTypeSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingType.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingTypeSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerType.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerTypeSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountType.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMappingSum.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfoSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportAll.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfo.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwner.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfo.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFiuCustAc.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCust.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexTrans.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmMain.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReady.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImport.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAc.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMapping.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUserSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.Resources.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary2.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportDet.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressSumm.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerDetail.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerSummary.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingDirector.resources
+D:\Developer\CTNA\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.vbproj.GenerateResource.Cache
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\CTR.exe.config
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.exe
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.xml
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.pdb
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\goAMLSchema.xsd
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\CTR.exe
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\CTR.pdb
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\CTR.xml
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.Unity.dll
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\office.dll
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\office.xml
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\ResolveAssemblyReference.cache
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFlexTransaction.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportCCMSTrans.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAbout.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAMLDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAmlSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeDetail.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSummary.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAppSettting.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountryDetail.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountrySummary.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCTRTransaction.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencyDetail.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencySummary.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorDetail.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorSummary.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEERSFeedExport.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonSummary.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportGoAML.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFGPermSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFileImportCustomerStatus.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmFundTypeDetail.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFundTypeSummary.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportAccountInfo.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportBearerInfo.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportEntityInformation.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCustGo.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportOwnerInfo.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmList.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmLogin.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmLogReport.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeSummary.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPermFGDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonDetail.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonSummary.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneDetail.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneSummary.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessByRuleHistory.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReadyGo.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImportGo.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedAccWithEntityOwner.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedTransgoAML.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAcGo.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingEntityInfo.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwnerGo.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissionAccountFieldInfo.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportOwnerInfo.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthCust.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthTrans.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportSummary.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRule.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportFileImportStatus.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmAssessmentDurSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAssessment_Duration.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBank.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranch.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranchSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmBankSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmComRegAuth.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmComRegAuthSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountry.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmCountrySumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrency.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmCurrencySumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrict.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmDivInfoSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivision.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExDesig.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmExDesigSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypes.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypesSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRuleGo.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmReportView.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRolePermission.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptCTRvsGoAML.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptFLEXvsCCMS.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThana.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransType.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransTypeSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingType.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingTypeSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerType.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerTypeSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountType.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMappingSum.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfoSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportAll.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfo.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwner.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfo.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFiuCustAc.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCust.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexTrans.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmMain.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReady.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImport.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAc.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMapping.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUserSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.Resources.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary2.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportDet.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressSumm.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerDetail.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerSummary.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingDirector.resources
+E:\_01.Mizan\CTR-goAML\CTR v1.3.2\CTR\obj\Debug\CTR.vbproj.GenerateResource.Cache
+E:\_01.Mizan\CTR v1.3.2\CTR\bin\Debug\CTR.exe.config
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.exe
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.xml
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.pdb
+E:\_01.Mizan\CTR v1.3.2\CTR\bin\Debug\goAMLSchema.xsd
+E:\_01.Mizan\CTR v1.3.2\CTR\bin\Debug\CTR.exe
+E:\_01.Mizan\CTR v1.3.2\CTR\bin\Debug\CTR.pdb
+E:\_01.Mizan\CTR v1.3.2\CTR\bin\Debug\CTR.xml
+E:\_01.Mizan\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\_01.Mizan\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\_01.Mizan\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\_01.Mizan\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\_01.Mizan\CTR v1.3.2\CTR\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\_01.Mizan\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.Unity.dll
+E:\_01.Mizan\CTR v1.3.2\CTR\bin\Debug\office.dll
+E:\_01.Mizan\CTR v1.3.2\CTR\bin\Debug\office.xml
+E:\_01.Mizan\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\ResolveAssemblyReference.cache
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFlexTransaction.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportCCMSTrans.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAbout.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAMLDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAmlSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeDetail.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSummary.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAppSettting.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountryDetail.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountrySummary.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCTRTransaction.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencyDetail.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencySummary.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorDetail.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorSummary.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEERSFeedExport.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonSummary.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportGoAML.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFGPermSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFileImportCustomerStatus.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.frmFundTypeDetail.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFundTypeSummary.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportAccountInfo.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportBearerInfo.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportEntityInformation.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCustGo.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportOwnerInfo.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmList.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmLogin.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.frmLogReport.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeSummary.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPermFGDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonDetail.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonSummary.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneDetail.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneSummary.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessByRuleHistory.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReadyGo.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImportGo.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedAccWithEntityOwner.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedTransgoAML.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAcGo.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingEntityInfo.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwnerGo.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissionAccountFieldInfo.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportOwnerInfo.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthCust.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthTrans.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportSummary.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRule.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportFileImportStatus.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.frmAssessmentDurSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAssessment_Duration.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBank.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranch.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranchSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.frmBankSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmComRegAuth.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.frmComRegAuthSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountry.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.frmCountrySumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrency.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.frmCurrencySumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrict.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.frmDivInfoSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivision.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExDesig.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.frmExDesigSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypes.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypesSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRuleGo.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.frmReportView.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRolePermission.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptCTRvsGoAML.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptFLEXvsCCMS.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThana.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransType.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransTypeSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingType.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingTypeSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerType.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerTypeSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountType.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMappingSum.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfoSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportAll.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfo.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwner.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfo.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFiuCustAc.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCust.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexTrans.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmMain.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReady.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImport.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAc.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMapping.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUserSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.Resources.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary2.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportDet.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressSumm.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerDetail.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerSummary.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingDirector.resources
+E:\_01.Mizan\CTR v1.3.2\CTR\obj\Debug\CTR.vbproj.GenerateResource.Cache
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\CTR.exe.config
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.exe
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.xml
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.pdb
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\goAMLSchema.xsd
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\CTR.exe
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\CTR.pdb
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\CTR.xml
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.Unity.dll
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\office.dll
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\office.xml
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\ResolveAssemblyReference.cache
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFlexTransaction.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportCCMSTrans.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAbout.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAMLDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAmlSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeDetail.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSummary.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAppSettting.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountryDetail.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountrySummary.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCTRTransaction.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencyDetail.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencySummary.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorDetail.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorSummary.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEERSFeedExport.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonSummary.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportGoAML.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFGPermSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFileImportCustomerStatus.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmFundTypeDetail.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFundTypeSummary.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportAccountInfo.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportBearerInfo.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportEntityInformation.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCustGo.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportOwnerInfo.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmList.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmLogin.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmLogReport.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeSummary.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPermFGDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonDetail.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonSummary.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneDetail.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneSummary.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessByRuleHistory.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReadyGo.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImportGo.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedAccWithEntityOwner.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedTransgoAML.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAcGo.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingEntityInfo.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwnerGo.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissionAccountFieldInfo.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportOwnerInfo.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthCust.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthTrans.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportSummary.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRule.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportFileImportStatus.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmAssessmentDurSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAssessment_Duration.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBank.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranch.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranchSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmBankSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmComRegAuth.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmComRegAuthSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountry.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmCountrySumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrency.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmCurrencySumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrict.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmDivInfoSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivision.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExDesig.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmExDesigSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypes.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypesSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRuleGo.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmReportView.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRolePermission.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptCTRvsGoAML.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptFLEXvsCCMS.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThana.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransType.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransTypeSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingType.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingTypeSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerType.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerTypeSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountType.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMappingSum.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfoSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportAll.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfo.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwner.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfo.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFiuCustAc.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCust.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexTrans.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmMain.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReady.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImport.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAc.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMapping.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUserSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.Resources.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary2.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportDet.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressSumm.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerDetail.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerSummary.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingDirector.resources
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.vbproj.GenerateResource.Cache
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\MigraDoc.Rendering.dll
+D:\00.Development Projects(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\PdfSharp.dll
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\CTR.exe.config
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.exe
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.xml
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.pdb
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\goAMLSchema.xsd
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\CTR.exe
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\CTR.pdb
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\CTR.xml
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\MigraDoc.Rendering.dll
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\PdfSharp.dll
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\office.dll
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.Unity.dll
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\office.xml
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\ResolveAssemblyReference.cache
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFlexTransaction.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportCCMSTrans.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAbout.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAMLDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAmlSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeDetail.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSummary.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAppSettting.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountryDetail.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountrySummary.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCTRTransaction.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencyDetail.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencySummary.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorDetail.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorSummary.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEERSFeedExport.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonSummary.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportGoAML.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFGPermSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFileImportCustomerStatus.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmFundTypeDetail.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFundTypeSummary.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportAccountInfo.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportBearerInfo.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportEntityInformation.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCustGo.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportOwnerInfo.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmList.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmLogin.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmLogReport.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeSummary.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPermFGDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonDetail.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonSummary.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneDetail.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneSummary.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessByRuleHistory.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReadyGo.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImportGo.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedAccWithEntityOwner.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedTransgoAML.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAcGo.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingEntityInfo.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwnerGo.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissionAccountFieldInfo.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportOwnerInfo.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthCust.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthTrans.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportSummary.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRule.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportFileImportStatus.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmAssessmentDurSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAssessment_Duration.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBank.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranch.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranchSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmBankSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmComRegAuth.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmComRegAuthSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountry.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmCountrySumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrency.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmCurrencySumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrict.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmDivInfoSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivision.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExDesig.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmExDesigSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypes.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypesSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRuleGo.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmReportView.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRolePermission.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptCTRvsGoAML.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptFLEXvsCCMS.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThana.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransType.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransTypeSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingType.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingTypeSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerType.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerTypeSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountType.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMappingSum.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfoSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportAll.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfo.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwner.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfo.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFiuCustAc.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCust.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexTrans.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmMain.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReady.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImport.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAc.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMapping.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUserSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.Resources.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary2.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportDet.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressSumm.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerDetail.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerSummary.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingDirector.resources
+D:\00.Development(Mizan)\CTR_Project\CTR v1.3.2\CTR\obj\Debug\CTR.vbproj.GenerateResource.Cache
+D:\00.Development(Mizan)\CTR\CTR v1.3.2\CTR\bin\Debug\CTR.exe.config
+D:\00.Development(Mizan)\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.exe
+D:\00.Development(Mizan)\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.xml
+D:\00.Development(Mizan)\CTR\CTR v1.3.2\CTR\obj\Debug\CTR.pdb
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\CTR.exe.config
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.exe
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.xml
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.pdb
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\goAMLSchema.xsd
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\CTR.exe
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\CTR.pdb
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\CTR.xml
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\MigraDoc.Rendering.dll
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\PdfSharp.dll
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\office.dll
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.Unity.dll
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\office.xml
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\ResolveAssemblyReference.cache
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFlexTransaction.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportCCMSTrans.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAbout.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAMLDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAmlSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeDetail.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSummary.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAppSettting.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountryDetail.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountrySummary.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCTRTransaction.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencyDetail.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencySummary.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorDetail.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorSummary.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEERSFeedExport.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonSummary.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportGoAML.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFGPermSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFileImportCustomerStatus.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmFundTypeDetail.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFundTypeSummary.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportAccountInfo.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportBearerInfo.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportEntityInformation.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCustGo.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportOwnerInfo.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmList.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmLogin.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmLogReport.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeSummary.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPermFGDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonDetail.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonSummary.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneDetail.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneSummary.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessByRuleHistory.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReadyGo.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImportGo.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedAccWithEntityOwner.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedTransgoAML.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAcGo.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingEntityInfo.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwnerGo.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissionAccountFieldInfo.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportOwnerInfo.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthCust.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthTrans.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportSummary.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRule.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportFileImportStatus.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmAssessmentDurSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAssessment_Duration.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBank.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranch.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranchSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmBankSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmComRegAuth.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmComRegAuthSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountry.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmCountrySumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrency.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmCurrencySumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrict.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmDivInfoSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivision.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExDesig.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmExDesigSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypes.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypesSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRuleGo.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmReportView.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRolePermission.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptCTRvsGoAML.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptFLEXvsCCMS.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThana.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransType.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingType.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerType.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountType.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMappingSum.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfoSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportAll.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfo.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwner.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfo.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFiuCustAc.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCust.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexTrans.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmMain.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReady.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImport.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAc.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMapping.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUserSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.Resources.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary2.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportDet.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressSumm.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerDetail.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerSummary.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingDirector.resources
+D:\00.Development(Mizan)\CTR( 15 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.vbproj.GenerateResource.Cache
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\CTR.exe.config
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.exe
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.xml
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.pdb
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\goAMLSchema.xsd
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\CTR.exe
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\CTR.pdb
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\CTR.xml
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\MigraDoc.Rendering.dll
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\PdfSharp.dll
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\office.dll
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.Unity.dll
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\office.xml
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\ResolveAssemblyReference.cache
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFlexTransaction.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportCCMSTrans.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAbout.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAMLDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAmlSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeDetail.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSummary.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAppSettting.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountryDetail.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountrySummary.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCTRTransaction.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencyDetail.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencySummary.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorDetail.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorSummary.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEERSFeedExport.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonSummary.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportGoAML.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFGPermSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFileImportCustomerStatus.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmFundTypeDetail.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFundTypeSummary.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportAccountInfo.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportBearerInfo.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportEntityInformation.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCustGo.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportOwnerInfo.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmList.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmLogin.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmLogReport.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeSummary.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPermFGDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonDetail.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonSummary.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneDetail.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneSummary.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessByRuleHistory.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReadyGo.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImportGo.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedAccWithEntityOwner.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedTransgoAML.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAcGo.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingEntityInfo.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwnerGo.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissionAccountFieldInfo.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportOwnerInfo.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthCust.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthTrans.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportSummary.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRule.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportFileImportStatus.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmAssessmentDurSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAssessment_Duration.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBank.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranch.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranchSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmBankSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmComRegAuth.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmComRegAuthSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountry.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmCountrySumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrency.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmCurrencySumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrict.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmDivInfoSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivision.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExDesig.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmExDesigSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypes.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypesSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRuleGo.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmReportView.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRolePermission.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptCTRvsGoAML.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptFLEXvsCCMS.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThana.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransType.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingType.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerType.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountType.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMappingSum.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfoSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportAll.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfo.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwner.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfo.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFiuCustAc.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCust.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexTrans.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmMain.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReady.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImport.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAc.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMapping.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUserSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.Resources.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary2.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportDet.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressSumm.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerDetail.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerSummary.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingDirector.resources
+D:\00.Development(Mizan)\CTR( 28 March 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.vbproj.GenerateResource.Cache
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\goAMLSchema.xsd
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\CTR.exe.config
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\CTR.exe
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\CTR.pdb
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\CTR.xml
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\MigraDoc.Rendering.dll
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\PdfSharp.dll
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\office.dll
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Practices.Unity.dll
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\office.xml
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\ResolveAssemblyReference.cache
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFlexTransaction.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportCCMSTrans.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAbout.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAMLDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfoGoAmlSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountStatusSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeDetail.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSummary.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAppSettting.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCommunicationTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmContactTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountryDetail.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountrySummary.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCTRTransaction.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencyDetail.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrencySummary.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDeptSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorDetail.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDirectorSummary.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivisionSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEERSFeedExport.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonRoleSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityPersonSummary.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportGoAML.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFGPermSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFileImportCustomerStatus.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmFundTypeDetail.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmFundTypeSummary.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmIdentifierTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportAccountInfo.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportBearerInfo.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportEntityInformation.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCustGo.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportOwnerInfo.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmList.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmLogin.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmLogReport.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccupationTypeSummary.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnergoAmlSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPermFGDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonDetail.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPersonSummary.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneDetail.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmPhoneSummary.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessByRuleHistory.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReadyGo.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImportGo.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedAccWithEntityOwner.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmQualifiedTransgoAML.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAcGo.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingEntityInfo.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwnerGo.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissionAccountFieldInfo.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportOwnerInfo.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthCust.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportStatusUnAuthTrans.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportSummary.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRule.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportFileImportStatus.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmAssessmentDurSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAssessment_Duration.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBank.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranch.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBankBranchSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmBankSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmComRegAuth.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmComRegAuthSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCountry.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmCountrySumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmCurrency.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmCurrencySumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrict.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmDivInfoSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDivision.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExDesig.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmExDesigSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypes.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOccTypesSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportTransByRuleGo.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmReportView.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRolePermission.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptCTRvsGoAML.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmRptFLEXvsCCMS.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmSubmissionTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThana.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactiongoAmlSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransType.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingType.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportingTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerType.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmOwnerTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountType.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMappingSum.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfoSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmExportAll.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.frmOwnerInfo.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingOwner.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountInfo.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFiuCustAc.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexCust.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmImportFlexTrans.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmMain.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessFileReady.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmProcessImport.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMismatchFlexAc.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransAcOwnerMapping.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUsersFGSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmUserSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.Resources.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmTransactionItemStatusSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmConductionTypeSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmEntityLegalSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmDistrictSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmThanaSummary2.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAccountPersonRoleSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportDet.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmAddressSumm.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerDetail.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmBearerSummary.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.FrmReportMissingDirector.resources
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.vbproj.GenerateResource.Cache
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.exe
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.xml
+D:\00.Development(Mizan)\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.pdb
+E:\06.Convince computer Ltd\CTR( 01 June 2016 )\CTR v1.3.2\CTR\bin\Debug\CTR.exe.config
+E:\06.Convince computer Ltd\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.exe
+E:\06.Convince computer Ltd\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.xml
+E:\06.Convince computer Ltd\CTR( 01 June 2016 )\CTR v1.3.2\CTR\obj\Debug\CTR.pdb

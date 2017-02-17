@@ -1,0 +1,46 @@
+
+
+ALTER TABLE STATUS_IMP_FLEX_TRANS ADD INPUT_BY varchar(20)
+
+GO
+
+ALTER TABLE STATUS_IMP_FLEX_TRANS ADD AUTH_BY varchar(20)
+
+GO
+
+
+INSERT INTO  MENU_LIST(SLNO,MENU_NAME,INPUT_BY,INPUT_DATETIME,INPUT_FROM,AUTH_BY,AUTH_DATETIME,AUTH_FROM,
+             MOD_NO,STATUS)
+             VALUES      
+
+             (138,'TransactionFlexTransaction','System',GETDATE(),HOST_NAME(),
+              'System',GETDATE(),HOST_NAME(),1,'L');
+              
+GO
+
+INSERT INTO  MENU_LIST(SLNO,MENU_NAME,INPUT_BY,INPUT_DATETIME,INPUT_FROM,AUTH_BY,AUTH_DATETIME,AUTH_FROM,
+             MOD_NO,STATUS)
+             VALUES      
+
+             (139,'ReportQualifiedAccWithOwnerEntity','System',GETDATE(),HOST_NAME(),
+              'System',GETDATE(),HOST_NAME(),1,'L');
+              
+GO
+
+INSERT INTO  FORM_LIST(SLNO,FORMS_NAME,INPUT_BY,INPUT_DATETIME,INPUT_FROM,AUTH_BY,AUTH_DATETIME,AUTH_FROM,
+             MOD_NO,STATUS)
+             VALUES      
+
+             (136,'TransactionFlexTransaction','System',GETDATE(),HOST_NAME(),
+              'System',GETDATE(),HOST_NAME(),1,'L');
+
+GO
+
+INSERT INTO  FORM_LIST(SLNO,FORMS_NAME,INPUT_BY,INPUT_DATETIME,INPUT_FROM,AUTH_BY,AUTH_DATETIME,AUTH_FROM,
+             MOD_NO,STATUS)
+             VALUES      
+
+             (137,'ReportQualifiedAccWithOwnerEntity','System',GETDATE(),HOST_NAME(),
+              'System',GETDATE(),HOST_NAME(),1,'L');
+
+GO
